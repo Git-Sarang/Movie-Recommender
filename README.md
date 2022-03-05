@@ -54,7 +54,8 @@ Data sources:
 
 The main data collected had to be cleaned and organised on the basis of movie_ID. Duplicates had to be deleted.
 
-
+<a href="https://www.kaggle.com/tmdb/tmdb-movie-metadata">TMDB Movies Dataset</a>
+_(not included in the repository as it was over 100mbs)_
 
 
 ### Built With
@@ -115,4 +116,4 @@ _The model is deployed in a minimalist website design. It is hosted on Heroku._
 
 
 <p align="center">
-With 💖 and ☕ by Sarang</p>
+Made with 💖 and ☕ by Sarang</p>
