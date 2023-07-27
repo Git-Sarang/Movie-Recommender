@@ -4,4 +4,4 @@ pip install -r requirements.txt
 #pip install streamlit
 #pip install pickle
 #pip install requests
-streamlit run app.py
+
