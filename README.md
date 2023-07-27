@@ -11,7 +11,7 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-<a href="https://movie-recommender-sarang.herokuapp.com/"><img src="https://github.com/Git-Sarang/movie-recommender/blob/main/static/movie-rec-1.png" alt="Website-Link" /></a>
+<a href="https://movie-recommender-ta7y.onrender.com/"><img src="https://github.com/Git-Sarang/movie-recommender/blob/main/static/movie-rec-1.png" alt="Website-Link" /></a>
 
 <div id="tags" align="center">
 <a href="https://www.linkedin.com/in/sarang-rawat-a4aa30231"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
@@ -94,18 +94,18 @@ Dependencies that need to be installed
 
 ### Deployment
 
-_The model is deployed in a minimalist website design. It is hosted on Heroku._
+_The model is deployed in a minimalist website design. It is hosted on Render.com._
 
 1. The frontend is made by the _streamlit_ library in python.
 2. It can be locally run using the command
    ```sh
    streamlit run app.py
    ```
-3. Command file is made by the name 'Procfile'. This contains the bash commands for the Heroko server.
+3. Command file is made by the name 'script.sh'. This contains the bash commands for the Render.com server.
   
-4. Finally all files are pushed to the Heroku server.
+4. Finally all files are pushed to the Render.com server.
 
-<a href="https://movie-recommender-sarang.herokuapp.com/">Movie Recommender</a>
+<a href="https://movie-recommender-ta7y.onrender.com/">Movie Recommender</a>
 
 
 ### Connect With Me
